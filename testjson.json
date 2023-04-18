@@ -1,0 +1,40 @@
+{
+    "emp_details" : [
+    {
+    "emp_name" : "virat",
+    "dob" : "05-11-1988",
+    "height" : "5.7inch",
+    "city" : "banglore",
+    "state" : "karnataka"
+    },
+   {
+    "emp_name" : "rohit",
+    "dob" : "09-07-1989",
+    "height" : "5.9inch",
+    "city" : "MUMBAI",
+    "state" : "maharastra"
+    },
+   {
+    " emp_name " : "dhoni",
+    "dob" : "16-07-1983",
+    "height" : "5.8inch",
+    "city" : "ranchi",
+    "state" : "jharkand"
+   },
+  {
+    "emp_name" : "manish",
+    "dob" : "11-12-1990",
+    "height" : "6inch",
+    "city" : "mysore",
+    "state" : "karnataka"
+  },
+ {
+    "emp_name" : "rishab",
+    "dob" : "17-09-1999",
+    "heigt" : "5.6inch",
+    "city" : "roorkee",
+    "state" : "uttrakhand"
+  }
+ ]
+} 
+
